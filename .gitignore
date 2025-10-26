@@ -6,7 +6,9 @@ full_dataset_all/cadenza_clip1_data.train.v1.0.tar.gz
 full_dataset_all/cadenza_clip1_data.valid.v1.0.tar.gz
 full_dataset_all/CHANGELOG.md
 full_dataset_all/clip1_track_license_1.00.csv
-data/cadenza_data/
+data/cadenza_data_train/
+data/cadenza_data_valid/
+whisper_models/
 desktop.ini
 Thumbs.db
 *.lnk
